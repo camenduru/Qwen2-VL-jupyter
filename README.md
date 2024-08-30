@@ -20,3 +20,4 @@ https://arxiv.org/abs/2308.12966
 https://qwenlm.github.io/blog/qwen2-vl/
 
 ### 🖼 Output
+![Screenshot 2024-08-30 065333](https://github.com/user-attachments/assets/fbfaf82a-d801-46d2-9bf3-2a8ebb6f3f6b)
