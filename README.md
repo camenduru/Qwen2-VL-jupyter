@@ -6,7 +6,8 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Qwen2-VL-jupyter/blob/main/Qwen2_VL_2B_Instruct.ipynb) | Qwen2_VL_2B_Instruct
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Qwen2-VL-jupyter/blob/main/Qwen2_VL_2B_Instruct.ipynb) | Qwen2_VL_2B_Instruct (8bit)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Qwen2-VL-jupyter/blob/main/Qwen2_VL_7B_Instruct.ipynb) | Qwen2_VL_7B_Instruct (8bit)
 
 ### 🧬 Code
 
